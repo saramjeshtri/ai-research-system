@@ -14,3 +14,8 @@ node_modules/
 
 # OS
 .DS_Store
+
+# local notes + scratch
+docs/
+*.out
+scripts/*.out
