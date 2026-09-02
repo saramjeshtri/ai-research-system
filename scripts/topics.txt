@@ -1,0 +1,8 @@
+# One research question per line. The scheduled job runs the top unused one each day
+# and marks it "# done <date>". Add new questions at the bottom any time.
+
+What EU grant calls are currently open for small AI startups?
+Which European startup accelerators fund early-stage AI companies?
+What are the main EU AI Act obligations for startups in 2026?
+Which national AI funding programs exist in Germany, France and Spain?
+What Horizon Europe calls related to AI close in the next 3 months?
